@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: First post for test!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+테스트를 위한 첫 포스팅
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/start.jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+공부한 내용들을 정리하기 위한 블로그 [JSLee's study](https://lp4500.github.io) on GitHub.
